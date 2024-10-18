@@ -43,24 +43,24 @@ INSTALLATION
 
 2.Backend Setup: Navigate to the backend directory:
 
-     cd backend
-     npm install
+       cd backend
+       npm install
 Set up your environment variables (e.g., MongoDB URI, JWT secret).
 
 3.Frontend Setup: Navigate to the frontend directory:
 
-    cd frontend
-    npm install
+      cd frontend
+      npm install
 4.Run the Application:
 
 Start the backend server:
 
-   cd backend
-   npm start
+     cd backend
+     npm start
 Start the frontend server:
 
-    cd frontend
-    npm start
+     cd frontend
+     npm start
 6.Open http://localhost:3000 to use the application.
 
 USAGE
